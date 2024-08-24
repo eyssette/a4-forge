@@ -9,7 +9,7 @@ header-includes: |
 
 # Mise en forme automatique au format A4 de ses fichiers Markdown
 
-**A4-Forge** (sur [Gitlab](https://forge.apps.education.fr/eyssette/a4-forge) ou sur [Github](https://github.com/eyssette/a4-forge)) est un outil pour transformer automatiquement les fichier Markdown de son répertoire en pages HTML au format A4, prêtes pour l'impression.
+**A4-Forge** (sur [Gitlab](https://forge.apps.education.fr/eyssette/a4-forge) ou sur [Github](https://github.com/eyssette/a4-forge)) est un outil pour transformer automatiquement les fichiers Markdown de son répertoire en pages HTML au format A4, prêtes pour l'impression.
 
 Les fonctionnalités sont les suivantes :
 
