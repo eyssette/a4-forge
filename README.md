@@ -94,3 +94,7 @@ On peut insérer des images avec la syntaxe Markdown habituelle : `![](URL)` mai
 Cet outil est distribué gratuitement et sous licence libre.
 
 Il dépend des outils libres suivants : [pandoc](https://pandoc.org/) et [fr-nbsp](https://github.com/InseeFrLab/pandoc-filter-fr-nbsp) pour les versions sur forge ou en local, et [Markdown-it](https://github.com/markdown-it/markdown-it), [Markdown-it-Emoji](https://github.com/markdown-it/markdown-it-emoji), [Markdown-it-Admonition](https://github.com/docarys/markdown-it-admonition)  et [js-yaml](https://github.com/nodeca/js-yaml) pour la version en ligne.
+
+## Autres logiciels à tester
+
+N'hésitez pas également à tester [pdfautonup et pdfimpose](https://ababsurdo.fr/blog/20240325-imposition-pour-les-profs/), des logiciels libres créés par [Louis Paternault](https://ababsurdo.fr/apropos/)
